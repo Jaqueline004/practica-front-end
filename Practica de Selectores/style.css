@@ -1,0 +1,41 @@
+h2 {
+    background-color: lightgreen; color: rgb(43, 142, 204); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: lightskyblue; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-shadow: lime;
+}
+
+span.classy{
+    background-color: pink; font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p[href="*initial"] {
+    color: salmon; font-family: monospace;
+}
+
+a[href^="#"] {
+    background-color: rgb(53, 241, 241); font-family: cursive;
+}
+
+p[href^="sensitive"] {
+    font-family: fantasy; color: rgb(78, 7, 78);
+}
+
+p[href="#light"] {
+    background-size: 0in; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: sienna;
+}
+
+p[href="html"] {
+    background-color: rgb(132, 199, 199); font-family: 'Courier New', Courier, monospace; color: green;
+}
+
+p[href="close"] {
+    color: indigo; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p[href="identid"] {
+    background-color: lightcoral; color: mediumblue; font-style: italic; font-family: 'Courier New', Courier, monospace;
+}
+
